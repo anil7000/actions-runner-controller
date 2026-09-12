@@ -63,3 +63,7 @@ We welcome contributions from the community. For more details on contributing to
 ## Troubleshooting
 
 We are very happy to help you with any issues you have. Please refer to the "[Troubleshooting](https://github.com/actions/actions-runner-controller/blob/master/TROUBLESHOOTING.md)" section for common issues.
+
+## Operations checklist
+
+See [the operations guide](OPERATIONS.md) for focused validation and troubleshooting checks.
