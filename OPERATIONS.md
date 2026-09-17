@@ -45,7 +45,7 @@ unless a reviewed isolation and approval design exists.
 
 See [README](README.md) for the modern scale-set documentation links.
 
-## Development note
+## Attribution
 
-This operations checklist was added with AI assistance. Upstream code, licenses
+Upstream code, licenses
 and contributor attribution remain unchanged.
